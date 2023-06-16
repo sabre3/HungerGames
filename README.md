@@ -1,3 +1,5 @@
+# Archived as maintainer has returned and updated original plugin
+
 # The cheapest fork you've ever seen to make this plugin work on Minecraft 1.19.3
 ## Tested on paper 1.19.3 
 
